@@ -17,7 +17,7 @@ import android.widget.ImageView;
 
 public class CustomSlider extends FrameLayout {
 
-    interface OnSliderMove{
+    public interface OnSliderMove{
         void onSliderMove(int value);
     }
 
