@@ -76,7 +76,7 @@ public class CustomSlider extends FrameLayout {
 
         ImageView thumb = findViewById(R.id.thumbImage);
 
-        Log.d("Ernesto","se ejecuta touchevent");
+        Log.d("custom","se ejecuta touchevent");
 
         /*
             1. Se obtiene la posición del view padre en la pantalla para tomarla como referencia
